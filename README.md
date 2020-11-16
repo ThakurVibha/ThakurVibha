@@ -1,7 +1,7 @@
 [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)]( https://in.linkedin.com/in/vibha-thakur-a105551b9
 )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:vibhathakur1210@gmail.com)
 
-![image](https://user-images.githubusercontent.com/72120614/99257979-b8130d00-27cc-11eb-84c5-45a2fabe1449.png)
+<img src="https://user-images.githubusercontent.com/72120614/99257979-b8130d00-27cc-11eb-84c5-45a2fabe1449.png" alt="banner that says Vibha Thakur - Aspiring android developer">
 
 ### Hi, I'm Vibha 👋
 
