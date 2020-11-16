@@ -3,7 +3,6 @@
 
 ![image](https://user-images.githubusercontent.com/72120614/99257979-b8130d00-27cc-11eb-84c5-45a2fabe1449.png)
 
-
 ### Hi, I'm Vibha 👋
 
 ## I'm a Passionate Learner and heading on my way to be a better Android Developer.
