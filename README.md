@@ -1,7 +1,7 @@
 [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)]( https://in.linkedin.com/in/vibha-thakur-a105551b9
 )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:vibhathakur1210@gmail.com)
 
-![https://www.freepik.com/free-vector/flat-design-young-girl-programmer-working_5359370.htm#page=1&query=coding%20girl&position=11]
+![https://www.freepik.com/free-vector/flat-design-young-girl-programmer-working_5359370.htm]
 ### Hi, I'm Vibha 👋
 
 ## I'm a Passionate Learner and heading on my way to be a better Android Developer.
