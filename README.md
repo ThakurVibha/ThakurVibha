@@ -1,5 +1,5 @@
 [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)]( https://in.linkedin.com/in/vibha-thakur-a105551b9
-)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)](https://twitter.com/sdwivediarpit)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/kaggle.png)](https://www.kaggle.com/arpitdw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:8arpitdwivedi798@gmail.com)
+)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:vibhathakur1210@gmail.com)
 
 
 ### Hi, I'm Vibha 👋
