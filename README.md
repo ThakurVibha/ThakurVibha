@@ -1,3 +1,7 @@
+[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)]( https://in.linkedin.com/in/vibha-thakur-a105551b9
+)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)](https://twitter.com/sdwivediarpit)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/kaggle.png)](https://www.kaggle.com/arpitdw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:8arpitdwivedi798@gmail.com)
+
+
 ### Hi, I'm Vibha 👋
 
 ## I'm a Passionate Learner and heading on my way to be a better Android Developer.
@@ -8,8 +12,9 @@
 - 👯 I’m looking to collaborate for building a useful application for farmers.
 - 🤔 I’m looking for help with data compression and competative coding.
 - 💬 Ask me about java, Android development.
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
+- 📫 ***How to reach me***: My [portfolio link](https://www.instagram.com/thakur__vibha/) or contact me directly on this mail [vibhathakur1210@gmail.com](mailto:vibhathakur1210@gmail.com).
+
+- 😄 Pronouns: You can give one
 - ⚡ Fun fact: I draw pretty good sketches and i am a stargazer.
 
 📦 [medium][medium] **|** 
@@ -18,5 +23,5 @@
 
 [banner]: https://www.freepik.com/free-vector/flat-design-young-girl-programmer-working_5359370.htm#page=1&query=coding%20girl&position=11
 [medium]: https://vibhathakur39.medium.com/
-[instagram]: https://instagram.com/thakur_vibha
+[instagram]: https://www.instagram.com/thakur__vibha/
 [linkedin]: https://in.linkedin.com/in/vibha-thakur-a105551b9
