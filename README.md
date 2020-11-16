@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm Vibha 👋
 
-<!--
-**ThakurVibha/ThakurVibha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Passionate Learner and heading on my way to be a better Android Developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Firebase chat application and Reddit clone application.
+- 🌱 I’m currently learning Design patterns,Firebase and Networking.
+- 👯 I’m looking to collaborate for building a useful application for farmers.
+- 🤔 I’m looking for help with data compression and competative coding.
+- 💬 Ask me about java, Android development.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I draw pretty good sketches and i am a stargazer.
+
+📦 [medium][medium] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[banner]: https://www.freepik.com/free-vector/flat-design-young-girl-programmer-working_5359370.htm#page=1&query=coding%20girl&position=11
+[medium]: https://vibhathakur39.medium.com/
+[instagram]: https://instagram.com/thakur_vibha
+[linkedin]: https://in.linkedin.com/in/vibha-thakur-a105551b9
