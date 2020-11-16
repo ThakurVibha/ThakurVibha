@@ -1,7 +1,6 @@
 [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)]( https://in.linkedin.com/in/vibha-thakur-a105551b9
 )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:vibhathakur1210@gmail.com)
 
-![image](https://user-images.githubusercontent.com/72120614/99256653-92850400-27ca-11eb-9a20-bb0bdc87c7ef.png)
 ### Hi, I'm Vibha 👋
 
 ## I'm a Passionate Learner and heading on my way to be a better Android Developer.
