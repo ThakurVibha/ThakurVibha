@@ -1,10 +1,12 @@
 [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)]( https://in.linkedin.com/in/vibha-thakur-a105551b9
 )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:vibhathakur1210@gmail.com)
 
+![image](https://user-images.githubusercontent.com/72120614/99257979-b8130d00-27cc-11eb-84c5-45a2fabe1449.png)
+
+
 ### Hi, I'm Vibha 👋
 
 ## I'm a Passionate Learner and heading on my way to be a better Android Developer.
-
 
 - 🔭 I’m currently working on Firebase chat application and Reddit clone application.
 - 🌱 I’m currently learning Design patterns,Firebase and Networking.
