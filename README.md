@@ -12,7 +12,6 @@ Skills: Java / Android SDK/ XML/ SQLite / Firebase/REST AP
 - 👯 I’m looking to collaborate for building a useful application for farmers.
 - 🤔 I’m looking for help with data compression and competative coding.
 - 💬 Ask me about java, Android development.
-- 📫 ***How to reach me***: My [portfolio link](https://www.instagram.com/thakur__vibha/) or contact me directly on this mail [vibhathakur1210@gmail.com](mailto:vibhathakur1210@gmail.com).
 - 😄 Pronouns: You can give one
 - ⚡ Fun fact: I draw pretty good sketches and i am a stargazer.
 
