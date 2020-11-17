@@ -1,11 +1,8 @@
-[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)]( https://in.linkedin.com/in/vibha-thakur-a105551b9
-)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:vibhathakur1210@gmail.com)
-
+### Hi there 👋, Vibha here
 # I'm a Passionate Learner and heading on my way to be a better Android Developer.
 
-### Hi there 👋, Vibha here
 #### Android developer
-![Android developer](https://i.pinimg.com/originals/72/e5/6d/72e56da0fa26d95d24de4705d3057767.jpg)
+![Android developer](https://image.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg)
 
 I'm a Passionate Learner and heading on my way to be a better Android Developer. I am working on some of my personal projects with java and looking forward to get my hands dirty in kotlin.
 
@@ -13,6 +10,10 @@ I'm a Passionate Learner and heading on my way to be a better Android Developer.
 Skills: Java / Android SDK/ XML/ SQLite / Firebase/REST AP
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibha)](https://github.com/anuraghazra/github-readme-stats)
 
