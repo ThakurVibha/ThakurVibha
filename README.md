@@ -1,11 +1,9 @@
 ### Hi there 👋, Vibha here
-# I'm a Passionate Learner and heading on my way to be a better Android Developer.
-
 ![Android developer](https://image.freepik.com/free-vector/smartphone-with-big-data-stream-isometric-banner_107791-258.jpg)
 
-Skills: Java / Android SDK/ XML/ SQLite / Firebase/REST AP
+I'm a Passionate Learner and heading on my way to be a better Android Developer.
 
-- 🔭 I’m currently working on this page. 
+Skills: Java / Android SDK/ XML/ SQLite / Firebase/REST AP
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibha)](https://github.com/anuraghazra/github-readme-stats)
 
