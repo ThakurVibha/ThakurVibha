@@ -10,5 +10,4 @@
 - 🤔 I’m looking for help with data compression and competative coding.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ThakurVibha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://in.linkedin.com/in/vibha-thakur-a105551b9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/thakur__vibha//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://vibhathakur39.medium.com/)  
-![38680-coding (1)](https://user-images.githubusercontent.com/72120614/99345389-09f87900-2847-11eb-94df-4610ef5b48b6.gif)
 
