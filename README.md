@@ -1,4 +1,5 @@
-### Hi👋, I'm Vibha 👩 💻 
+![image](https://user-images.githubusercontent.com/72120614/99364340-b4ce5e80-286a-11eb-8186-7e27383fd060.png)
+
 ## I hope you are working on some cool stuff😊
 
 [![Vibha's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibha&theme=dark&show_icons=true)](https://github.com/ThakurVibha?tab=repositories)
