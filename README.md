@@ -9,5 +9,7 @@
 - 👯 I’m looking to collaborate for building a useful application for farmers.
 - 🤔 I’m looking for help with data compression and competative coding.
 
+![38680-coding](https://user-images.githubusercontent.com/72120614/99345090-5db69280-2846-11eb-9ea8-8b7263e08872.gif)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ThakurVibha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://in.linkedin.com/in/vibha-thakur-a105551b9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/thakur__vibha//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://vibhathakur39.medium.com/)  
 
