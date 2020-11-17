@@ -1,8 +1,6 @@
 ### Hi👋, I'm Vibha 👩 💻 
 ## I hope you are working on some cool stuff😊
 
-![image](https://user-images.githubusercontent.com/72120614/99362665-a121f880-2868-11eb-8fd5-8c973e1e2a8c.png)
-
 [![Vibha's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibha&theme=dark&show_icons=true)](https://github.com/ThakurVibha?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurVibha&layout=compact&theme=dark&show_icons=true)](https://github.com/ThakurVibha?tab=repositories)
