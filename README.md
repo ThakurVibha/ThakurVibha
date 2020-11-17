@@ -1,10 +1,10 @@
-![Android developer](https://pixabay.com/get/52e4d642485aac14f1dc8460c6213777163bddec4e507749702a73d7924ac0_640.png)
+![Android developer](https://pixabay.com/get/52e4d642485aac14ead98d7dce2b337d1c22dfe353547441712a7cdc.svg)
 
 ### Hi there 👋, I'm Vibha,i hope you are working on some cool stuff😊
 
 I'm a Passionate Learner and heading on my way to be a better Android Developer. I am working on some of my personal projects with java and looking forward to get my hands dirty in kotlin.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibha)](https://github.com/anuraghazra/github-readme-stats)
+[![Vibha's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibha)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I'm a Passionate Learner and heading on my way to be a better Android Developer. I am working on some of my personal projects with java and looking forward to get my hands    dirty in kotlin.
 - 🌱 I’m currently learning Design patterns,Firebase and Networking.
