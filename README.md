@@ -6,7 +6,7 @@
 [![Vibha's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibha)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I'm a Passionate Learner and heading on my way to be a better Android Developer📱 . I am working on some of my personal projects with java and looking forward to get my hands    dirty in kotlin.
-- 🌱 I’m currently learning Design patterns,Firebase and Networking.
+- 🌱 Currently i am working on a Chat Application and a Reddit Clone App.
 - 👯 I’m looking to collaborate for building a useful application for farmers.
 - 🤔 I’m looking for help with data compression and competative coding.
 
