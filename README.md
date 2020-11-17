@@ -2,8 +2,6 @@
 
 ![Android developer](https://pixabay.com/get/52e4d642485aac14f1dc8460c6213777163bddec4e507749702a73d0904dc1_640.png)
 
-I'm a Passionate Learner and heading on my way to be a better Android Developer. I am working on some of my personal projects with java and looking forward to get my hands dirty in kotlin.
-
 [![Vibha's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibha)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I'm a Passionate Learner and heading on my way to be a better Android Developer. I am working on some of my personal projects with java and looking forward to get my hands    dirty in kotlin.
