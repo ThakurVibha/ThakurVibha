@@ -5,7 +5,7 @@
 
 [![Vibha's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibha&theme=dark&show_icons=true)](https://github.com/ThakurVibha?tab=repositories)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThakurVibha&theme=dark&show_icons=true)](https://github.com/ThakurVibha?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurVibha&layout=compact&theme=dark&show_icons=true)](https://github.com/ThakurVibha?tab=repositories)
 
 - 🔭 I'm a Passionate Learner and heading on my way to be a better Android Developer📱 . I am working on some of my personal projects with java and looking forward to get my hands    dirty in kotlin.
 - 🌱 Currently i am working on a Chat Application and a Reddit Clone App.
