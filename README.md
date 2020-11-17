@@ -1,7 +1,7 @@
 ### Hi👋, I'm Vibha 👩 💻 
 ## I hope you are working on some cool stuff😊
 
-![Android developer](https://pixabay.com/get/52e4d642485aac14f1dc8460c6213777163bddec4e507749702a73d0904dc1_640.png)
+![Android developer](https://pixabay.com/get/52e4d642485aac14f1dc8460c6213777163bddec4e507749702a73d0904dc1_640.png height='60')
 
 [![Vibha's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibha&theme=dark&show_icons=true)](https://github.com/ThakurVibha?tab=repositories)
 
