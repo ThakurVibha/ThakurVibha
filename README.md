@@ -1,11 +1,7 @@
 ### Hi there 👋, Vibha here
 # I'm a Passionate Learner and heading on my way to be a better Android Developer.
 
-#### Android developer
 ![Android developer](https://image.freepik.com/free-vector/smartphone-with-big-data-stream-isometric-banner_107791-258.jpg)
-
-I'm a Passionate Learner and heading on my way to be a better Android Developer. I am working on some of my personal projects with java and looking forward to get my hands dirty in kotlin.
-
 
 Skills: Java / Android SDK/ XML/ SQLite / Firebase/REST AP
 
@@ -13,7 +9,7 @@ Skills: Java / Android SDK/ XML/ SQLite / Firebase/REST AP
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibha)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on Firebase chat application and Reddit clone application.
+- 🔭 I'm a Passionate Learner and heading on my way to be a better Android Developer. I am working on some of my personal projects with java and looking forward to get my hands    dirty in kotlin.
 - 🌱 I’m currently learning Design patterns,Firebase and Networking.
 - 👯 I’m looking to collaborate for building a useful application for farmers.
 - 🤔 I’m looking for help with data compression and competative coding.
