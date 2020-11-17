@@ -5,7 +5,7 @@
 I'm a Passionate Learner and heading on my way to be a better Android Developer. I am working on some of my personal projects with java and looking forward to get my hands dirty in kotlin.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibha)](https://github.com/anuraghazra/github-readme-stats)
-Skills: Java / Android SDK/ XML/ SQLite / Firebase/REST API
+
 - 🔭 I'm a Passionate Learner and heading on my way to be a better Android Developer. I am working on some of my personal projects with java and looking forward to get my hands    dirty in kotlin.
 - 🌱 I’m currently learning Design patterns,Firebase and Networking.
 - 👯 I’m looking to collaborate for building a useful application for farmers.
