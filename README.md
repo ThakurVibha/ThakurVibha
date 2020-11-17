@@ -3,7 +3,7 @@
 
 ![Android developer](https://pixabay.com/get/52e4d642485aac14f1dc8460c6213777163bddec4e507749702a73d0904dc1_640.png)
 
-[![Vibha's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibhatheme=dark&show_icons=true)](https://github.com/ThakurVibha?tab=repositories)
+[![Vibha's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibha)](https://github.com/ThakurVibha?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurVibhatheme=dark&show_icons=true)](https://github.com/ThakurVibha?tab=repositories)
 
