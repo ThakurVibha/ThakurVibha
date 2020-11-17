@@ -3,10 +3,18 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibha)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi, I'm Vibha 👋
+# I'm a Passionate Learner and heading on my way to be a better Android Developer.
 
-## I'm a Passionate Learner and heading on my way to be a better Android Developer.
+### Hi there 👋, Vibha here
+#### Android developer
+![Android developer](https://cdn.dribbble.com/users/10549/screenshots/9890798/media/f38f0e4d71d9763c7533641d2418b35b.png)
 
+I'm a Passionate Learner and heading on my way to be a better Android Developer. I am working on some of my personal projects with java and looking forward to get my hands dirty in kotlin.
+
+
+Skills: Java / Android SDK/ XML/ SQLite / Firebase/REST AP
+
+- 🔭 I’m currently working on this page. 
 - 🔭 I’m currently working on Firebase chat application and Reddit clone application.
 - 🌱 I’m currently learning Design patterns,Firebase and Networking.
 - 👯 I’m looking to collaborate for building a useful application for farmers.
