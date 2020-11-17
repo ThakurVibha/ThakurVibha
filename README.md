@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Vibha,i hope you are working on some cool stuff😊
+### Hi, I'm Vibha 👋🏾 👩🏾‍💻
+## I hope you are working on some cool stuff😊
 
 ![Android developer](https://pixabay.com/get/52e4d642485aac14f1dc8460c6213777163bddec4e507749702a73d0904dc1_640.png)
 
