@@ -1,5 +1,6 @@
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/72120614/99368200-b5b5bf00-286f-11eb-85f3-fbea33e56a25.gif)
 
+---
 
 - 🔭 **I'm a Passionate Learner and heading on my way to be a better Android Developer📱 . I am working on some of my personal projects with java and looking forward to get my hands dirty in kotlin.**
 
