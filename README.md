@@ -9,6 +9,7 @@
 
 - 🤔 **I’m looking for help with Algorithms.**
 
+---
 
 [![Vibha's github stats](https://github-readme-stats.vercel.app/api?username=ThakurVibha&theme=dark&show_icons=true)](https://github.com/ThakurVibha?tab=repositories)          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurVibha&layout=compact&theme=dark&show_icons=true_height=100)](https://github.com/ThakurVibha?tab=repositories)
 
