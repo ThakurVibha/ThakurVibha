@@ -1,4 +1,4 @@
-![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/72120614/99368200-b5b5bf00-286f-11eb-85f3-fbea33e56a25.gif)
+![Black Technology LinkedIn Banner](https://www.canva.com/design/DAET3KFRtGw/PRhH_gc2NX8ZNkiA8TvxMg/view?utm_content=DAET3KFRtGw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ---
 
