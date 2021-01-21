@@ -1,6 +1,3 @@
-![Black Technology LinkedIn Banner](https://www.canva.com/design/DAET3KFRtGw/share/preview?token=vvewdn_-Oy48QRM0k7GNuw&role=EDITOR&utm_content=DAET3KFRtGw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-
----
 
 - 🔭 **I'm a Passionate Learner and heading on my way to be a better Android Developer📱 . I am working on some of my personal projects with java and looking forward to get my hands dirty in kotlin.**
 
