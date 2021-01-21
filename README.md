@@ -1,4 +1,4 @@
-![Black Technology LinkedIn Banner](https://www.canva.com/design/DAET3KFRtGw/PRhH_gc2NX8ZNkiA8TvxMg/view?utm_content=DAET3KFRtGw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Black Technology LinkedIn Banner](https://www.canva.com/design/DAET3KFRtGw/share/preview?token=vvewdn_-Oy48QRM0k7GNuw&role=EDITOR&utm_content=DAET3KFRtGw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ---
 
