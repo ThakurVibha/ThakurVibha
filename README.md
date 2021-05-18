@@ -1,5 +1,4 @@
 <p align="center"> 
-
 - �**Passionate Learner who is facinated by Android application development📱.**
 
 - �**I have built different personal projects in the past few months and faced a lot of challenges.**
