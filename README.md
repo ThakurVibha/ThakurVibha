@@ -22,7 +22,7 @@ I am using material design Guidelines and animations for the robust design and t
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThakurVibha&show_icons=true&theme=gotham" alt="ThakurVibha" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ThakurVibha&show_icons=true&theme=gotham" alt="ThakurVibha" />
 
 
 
