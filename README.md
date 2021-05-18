@@ -1,7 +1,7 @@
 
-- 🔭 **I'm a Passionate Learner and heading on my way to be a better Android Developer📱 . I am working on some of my personal projects with java and looking forward to get my hands dirty in kotlin.**
-- - 🔭 **I have built different applications in the past few months and faced a lot of challenges, but I have overcome the same with the help of research and a continuous learning attitude.**
-- - 🔭 **Right now I am working on an Android Meditation Application. So I am building this application using Java, XML, and Firebase.
+- �**I'm a Passionate Learner and heading on my way to be a better Android Developer📱 . I am working on some of my personal projects with java and looking forward to get my hands dirty in kotlin.**
+- �**I have built different applications in the past few months and faced a lot of challenges, but I have overcome the same with the help of research and a continuous learning attitude.**
+- �**Right now I am working on an Android Meditation Application. So I am building this application using Java, XML, and Firebase.
 I am using material design Guidelines and animations for the robust design and the look and feel of the application.**
 
 - 💬 Connect with me;
