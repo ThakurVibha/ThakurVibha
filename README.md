@@ -1,7 +1,8 @@
+<p align="center"> 
 
-- �**Passionate Learner and heading on way to be a better Android Developer📱.
+- �**Passionate Learner and heading on way to be a better Android Developer📱.**
 
-- �**I have built different applications in the past few months and faced a lot of challenges.
+- �**I have built different applications in the past few months and faced a lot of challenges.**
 
 - �**Working on an Android Meditation Application. So I am building this application using Java, XML, and Firebase.**
 
