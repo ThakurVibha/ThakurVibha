@@ -7,10 +7,12 @@
 I am using material design Guidelines and animations for the robust design and the look and feel of the application.**
 
 - 💬 Connect with me;
-- 📫 How to reach me: [VibhaThakur](https://www.linkedin.com/in/vibha-thakur/);
+- 📫 How to reach me: [VibhaThakur](https://www.linkedin.com/in/vibha-thakur/)
  
+ 
+ <p align="center"> 
  **Languages and Tools:**  
-
+<p align="center"> 
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
