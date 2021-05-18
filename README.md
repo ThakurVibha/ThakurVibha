@@ -1,8 +1,8 @@
 
 - 🔭 **I'm a Passionate Learner and heading on my way to be a better Android Developer📱 . I am working on some of my personal projects with java and looking forward to get my hands dirty in kotlin.**
 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [VibhaThakur](vibhathakur39@gmail.com);
+- 💬 Connect with me;
+- 📫 How to reach me: [VibhaThakur](https://www.linkedin.com/in/vibha-thakur/);
 - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
 
 **Languages and Tools:**  
