@@ -1,9 +1,11 @@
-<p align="center"> 
 - �**Passionate Learner who is facinated by Android application development📱.**
 
 - �**I have built different personal projects in the past few months and faced a lot of challenges.**
 
 - �**Working on an Android Meditation Application. So I am building this application using Java, XML, and Firebase.**
+
+
+
 
 <p align="center"> 
 Languages and Tools
