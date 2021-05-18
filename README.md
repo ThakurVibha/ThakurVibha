@@ -8,7 +8,7 @@ I am using material design Guidelines and animations for the robust design and t
 
 - 💬 Connect with me;
 
-- 📫 How to reach me: [VibhaThakur](https://www.linkedin.com/in/vibha-thakur/);
+- 📫 How to reach me: [VibhaThakur](https://www.linkedin.com/in/vibha-thakur/)
 
  **Languages and Tools:**  
 
