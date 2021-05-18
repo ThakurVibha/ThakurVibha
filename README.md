@@ -6,6 +6,8 @@
 - �**Right now I am working on an Android Meditation Application. So I am building this application using Java, XML, and Firebase.
 I am using material design Guidelines and animations for the robust design and the look and feel of the application.**
 
+<p align="center"> 
+
 - 💬 Connect with me;
 
 - 📫 How to reach me: [VibhaThakur](https://www.linkedin.com/in/vibha-thakur/)
