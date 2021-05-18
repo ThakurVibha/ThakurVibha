@@ -10,7 +10,7 @@ I am using material design Guidelines and animations for the robust design and t
 
 - 📫 How to reach me: [VibhaThakur](https://www.linkedin.com/in/vibha-thakur/);
 
- **Languages and Tools:**  
+ -**Languages and Tools:**  
 
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -20,7 +20,7 @@ I am using material design Guidelines and animations for the robust design and t
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//git.png"></code>
 
 
-📈 My GitHub Stats
+-📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ThakurVibha&show_icons=true&theme=gotham" alt="ThakurVibha" />
 
