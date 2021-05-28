@@ -1,4 +1,4 @@
-- �**Passionate Learner who is fascinated by Android application development📱.**
+- �**Passionate Learner who is fascinated by Application development📱.**
 
 - �**I have built different personal projects in the past few months and faced a lot of challenges.**
 
