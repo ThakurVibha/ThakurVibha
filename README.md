@@ -1,5 +1,5 @@
 - �**Passionate Learner who is fascinated by Application development📱.**
-- 
+
 <p align="center"> 
 Languages and Tools
 <p align="center"> 
