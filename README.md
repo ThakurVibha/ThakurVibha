@@ -2,7 +2,7 @@
 
 <br />
 
-I'm [Vibha Thakur](https://www.linkedin.com/in/vibha_thakur), a passionate self-taught Android developer.
+I'm [Vibha Thakur](https://www.linkedin.com/in/vibha-thakur), a passionate self-taught Android developer.
 
 I love to build stuff with my coding skills, currently i am working in a Startup in Surat as an Android Engineer.
 
