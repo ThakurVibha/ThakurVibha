@@ -1,13 +1,14 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=ThakurVibha.ThakurVibha)
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://thakurvibha.github.io/), a passionate self-taught Android developer.
+Hi, I'm [Vibha Thakur](https://thakurvibha.github.io/), a passionate self-taught Android developer.
 
-I love to build stuff with my coding skills, currently i am working in a Startup in Surat as an Android Engineer. As a passionate learner i love to get my hands dirty with diffrent technologies, apart from native android development i am trying to build stuff in flutter as well.
+I love to build stuff with my coding skills, currently i am working in a Startup in Surat as an Android Engineer.
+
+As a passionate learner i love to get my hands dirty with diffrent technologies, apart from native android development i am trying to build stuff in flutter as well.
   
 
 <p align="center"> 
