@@ -1,10 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-
 <br />
 
-Hi, I'm [Vibha Thakur](https://thakurvibha.github.io/), a passionate self-taught Android developer.
+I'm [Vibha Thakur](https://thakurvibha.github.io/), a passionate self-taught Android developer.
 
 I love to build stuff with my coding skills, currently i am working in a Startup in Surat as an Android Engineer.
 
