@@ -6,10 +6,7 @@ I'm [Vibha Thakur](https://www.linkedin.com/in/vibha-thakur), a passionate self-
 
 I love to build stuff with my coding skills, currently i am working in a Startup in Surat as an Android Engineer.
 
-As a passionate learner i love to get my hands dirty with diffrent technologies, apart from native android development i am trying to build stuff in flutter and react as well.
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThakurVibha)](https://github.com/ThakurVibha/github-readme-stats)
-  
+As a passionate learner i love to get my hands dirty with diffrent technologies, apart from native android development i am trying to build stuff in Flutter and React as well.
 
 <p align="center"> 
 Languages and Tools
