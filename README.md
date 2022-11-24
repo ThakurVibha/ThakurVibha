@@ -12,11 +12,11 @@
 
 </br>
 
-*I'm [Vibha Thakur](https://www.linkedin.com/in/vibha-thakur), a passionate self-taught Android developer.
+* I'm [Vibha Thakur](https://www.linkedin.com/in/vibha-thakur), a passionate self-taught Android developer.
 
-*I love to build stuff with my coding skills, currently i am working in a Startup in Surat as an Android Engineer.
+* I love to build stuff with my coding skills, currently i am working in a Startup in Surat as an Android Engineer.
 
-*As a passionate learner i love to get my hands dirty with diffrent technologies, apart from native android development i am trying to build stuff in Flutter and React as well.
+* As a passionate learner i love to get my hands dirty with diffrent technologies, apart from native android development i am trying to build stuff in Flutter and React as well.
 </br>
 
 <p align="center"> 
