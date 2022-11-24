@@ -36,14 +36,13 @@ Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <p align="center"> 
-📈 My GitHub Stats
+* 📈 My GitHub Stats
 </br >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakurvibha&show_icons=true&locale=en&layout=compact" alt="thakurvibha" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thakurvibha&show_icons=true&locale=en" alt="thakurvibha" /></p>
-</br >
+</br>/
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurvibha&" alt="thakurvibha" /></p>
-</br >
 
 
 
