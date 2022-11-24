@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThakurVibha&repo=github-readme-stats)](https://github.com/ThakurVibha/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThakurVibha&repo=github-readme-stats)(https://github.com/ThakurVibha/github-readme-stats)
 
 
 I'm [Vibha Thakur](https://www.linkedin.com/in/vibha-thakur), a passionate self-taught Android developer.
@@ -32,7 +32,7 @@ Languages and Tools
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThakurVibha&show_icons=true&theme=gotham" alt="ThakurVibha" />
 
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurVibha&layout=compact)](https://github.com/ThakurVibha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurVibha&layout=compact)](https://github.com/ThakurVibha/github-readme-stats)
 
 
 
