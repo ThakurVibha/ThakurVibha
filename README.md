@@ -1,7 +1,7 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/vibha-thakur">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,9 +17,9 @@ I love to build stuff with my coding skills, currently i am working in a Startup
 As a passionate learner i love to get my hands dirty with diffrent technologies, apart from native android development i am trying to build stuff in Flutter and React as well.
 </br>
 
-<p align="center"> 
+<p align="left"> 
 Languages and Tools
-<p align="center"> 
+<p align="left"> 
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -33,14 +33,14 @@ Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p align="center"> 
+<p align="left"> 
 📈 My GitHub Stats
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakurvibha&show_icons=true&locale=en&layout=compact" alt="thakurvibha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakurvibha&show_icons=true&locale=en&layout=compact" alt="thakurvibha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thakurvibha&show_icons=true&locale=en" alt="thakurvibha" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thakurvibha&show_icons=true&locale=en" alt="thakurvibha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurvibha&" alt="thakurvibha" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurvibha&" alt="thakurvibha" /></p>
 </br>
 
 
