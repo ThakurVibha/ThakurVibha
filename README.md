@@ -11,11 +11,13 @@
 </div>
 
 </br>
+
 I'm [Vibha Thakur](https://www.linkedin.com/in/vibha-thakur), a passionate self-taught Android developer.
 
 I love to build stuff with my coding skills, currently i am working in a Startup in Surat as an Android Engineer.
 
 As a passionate learner i love to get my hands dirty with diffrent technologies, apart from native android development i am trying to build stuff in Flutter and React as well.
+</br>
 
 <p align="center"> 
 Languages and Tools
@@ -35,6 +37,7 @@ Languages and Tools
 
 <p align="center"> 
 📈 My GitHub Stats
+</br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThakurVibha&show_icons=true&theme=gotham" alt="ThakurVibha" />
 
 
