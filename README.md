@@ -20,7 +20,7 @@ As a passionate learner i love to get my hands dirty with diffrent technologies,
 </br>
 
 <p align="center"> 
-**Languages and Tools**
+##Languages and Tools
 <p align="center"> 
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -36,7 +36,7 @@ As a passionate learner i love to get my hands dirty with diffrent technologies,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <p align="center"> 
-**📈 My GitHub Stats**
+##📈 My GitHub Stats**
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakurvibha&show_icons=true&locale=en&layout=compact" alt="thakurvibha" /></p>
 
