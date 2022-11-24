@@ -9,12 +9,6 @@
     <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakurvibha&show_icons=true&locale=en&layout=compact" alt="thakurvibha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thakurvibha&show_icons=true&locale=en" alt="thakurvibha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurvibha&" alt="thakurvibha" /></p>
-</br>
 
 I'm [Vibha Thakur](https://www.linkedin.com/in/vibha-thakur), a passionate self-taught Android developer.
 
@@ -42,8 +36,12 @@ Languages and Tools
 <p align="center"> 
 📈 My GitHub Stats
 </br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThakurVibha&show_icons=true&theme=gotham" alt="ThakurVibha" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakurvibha&show_icons=true&locale=en&layout=compact" alt="thakurvibha" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thakurvibha&show_icons=true&locale=en" alt="thakurvibha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurvibha&" alt="thakurvibha" /></p>
+</br>
 
 
 
