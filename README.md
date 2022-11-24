@@ -41,8 +41,8 @@ Languages and Tools
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakurvibha&show_icons=true&locale=en&layout=compact" alt="thakurvibha" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thakurvibha&show_icons=true&locale=en" alt="thakurvibha" /></p>
-</br>/. 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurvibha&" alt="thakurvibha" /></p>. 
+</br>\n
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurvibha&" alt="thakurvibha" /></p>
 
 
 
